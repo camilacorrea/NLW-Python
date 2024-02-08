@@ -10,3 +10,5 @@ def my_func():
 # Pylint
 # snake_case -> Funções, Variáveis, Métodos
 # PascalCase -> Classes
+
+#.venv/Scripts/pip3 freeze > requirements.txt -> separa todas as bibliotecas e lista as versões
